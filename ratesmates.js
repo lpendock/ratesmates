@@ -92,4 +92,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('NzI1MTYyMDg0ODUzMDg4MzY3.XvLODQ.jW3blLWv90KzYOaZymFKHn-9LHo')
+client.login(token)
